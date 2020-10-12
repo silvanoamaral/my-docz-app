@@ -1,0 +1,33 @@
+---
+name: Button
+menu: Components
+---
+
+import { Playground, Props } from 'docz'
+import { Button } from './Button'
+
+# Button
+
+## Properties
+
+<Props of={Button} />
+
+## Normal
+
+<Playground>
+  <Button>Some message</Button>
+  <Button type="danger">Button Danger</Button>
+  <Button type="info">Button Info</Button>
+  <Button type="success">Button Success</Button>
+  <Button type="default">Button Default</Button>
+</Playground>
+
+## Outline
+<Playground>
+ <Button outline={true}>Button Outline</Button>
+</Playground>
+
+## Rounded
+<Playground>
+ <Button rounded={true}>Button Outline</Button>
+</Playground>

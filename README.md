@@ -42,3 +42,6 @@ yarn serve # npm run serve
 
 ## Live
 https://ui-docz-app.netlify.app
+
+## Pipeline
+https://app.netlify.com/sites/ui-docz-app/overview

@@ -45,3 +45,5 @@ https://ui-docz-app.netlify.app
 
 ## Pipeline
 https://app.netlify.com/sites/ui-docz-app/overview
+
+Ref: https://bossabox.com/blog/conheca-o-docz-sua-nova-ferramenta-para-documentar-components-em-reactjs/
